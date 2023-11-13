@@ -15,7 +15,7 @@ During the course of the project, I have come to realize that there is no specif
     - Within the approved loan, only 2.95% is marked as default loan
     - Within the approved loan, 83.3% is marked as having Credit Fraud (hasCF)
 
-![Company Overview](https://prnt.sc/EPgdfPpxOFAc)
+![Company Overview](Money Lion Images.1.png)
 
 **Conclusion:**
 It's truly impressive how well the company excels in risk management. Despite having a high percentage of loans marked with Credit Fraud, they have managed to keep their default loan rate remarkably low. This achievement can be attributed to their stringent screening process and the company's conservative approach. Their commitment to careful evaluation and thorough risk assessment seems to be paying off, ensuring a healthy and sustainable lending portfolio.
