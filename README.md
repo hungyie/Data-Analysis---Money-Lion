@@ -15,7 +15,7 @@ During the course of the project, I have come to realize that there is no specif
     - Within the approved loan, only 2.95% is marked as default loan
     - Within the approved loan, 83.3% is marked as having Credit Fraud (hasCF)
 
-![Business Overview](Money Lion Images/1.png)
+![Business Overview](Money Lion Images//1.png)
 
 
 **Conclusion:**
