@@ -73,4 +73,4 @@ The diagram below showcases the feature importance results for the model.
 
 ![Feature Importance](Money_Lion_Images/6.png)
 
-## END
+<center>## END</center>
