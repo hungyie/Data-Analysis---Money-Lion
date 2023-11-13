@@ -1,4 +1,3 @@
-# Data-Analysis---Money-Lion
 # Money Lion Project
 
 ## Intro
